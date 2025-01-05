@@ -69,29 +69,6 @@ Technologies Used
 	•	Frameworks/Tools: Firebase (for storing user scores and leaderboard)
 	•	Deployment: Firebase Hosting
 
-Contributing
-
-Contributions are welcome!
-
-How to Contribute
-	1.	Fork this repository.
-	2.	Create a new branch for your feature or fix:
-
-git checkout -b feature-name
-
-
-	3.	Commit your changes:
-
-git commit -m "Add feature-name"
-
-
-	4.	Push to your branch:
-
-git push origin feature-name
-
-
-	5.	Open a pull request explaining your changes.
-
 License
 
 This project is licensed under the MIT License.
